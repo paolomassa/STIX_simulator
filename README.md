@@ -1,3 +1,5 @@
+# Simulation code for the Spectrometer/Telescope for Imaging X-rays
+
 This repository contains a python code for simulating X-ray flaring configurations and corresponding data recorded by the [Spectrometer/Telescope for Imaging X-rays (STIX)](https://datacenter.stix.i4ds.net/) on board the ESA Solar Orbiter mission.
 The simulation code is based on **"The STIX Imaging Concept"** (2023) by Massa et al. [(https://doi.org/10.1007/s11207-023-02205-7)](https://doi.org/10.1007/s11207-023-02205-7).
 
